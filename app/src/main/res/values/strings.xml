@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="main_viewname">All  ADDRESS</string>
+    <string name="main_addbtn">+</string>
+    <string name="addr_name">Name:</string>
+    <string name="addr_phn">Phone No:</string>
+    <string name="addr_email">Eamil:</string>
+    <string name="addr_addr">Address:</string>
+    <string name="addr_zip">Zip Code:</string>
+    <string name="addr_city">City:</string>
+
+    <string name="addr_namehi">Name..</string>
+    <string name="addr_phnhi">Phone No..</string>
+    <string name="addr_emailhi">Mamil..</string>
+    <string name="addr_addrhi">Address..</string>
+    <string name="addr_ziphi">Zip Code..</string>
+    <string name="addr_cityhi">City..</string>
+
+
+</resources>
